@@ -22,4 +22,4 @@ The program takes the text file with tweets as input and reads the lines.
 Each feature outputs its results into one file each. ft1.txt has the list of words with their count. ft2.txt has the median of number of unique words in each tweet.
 
 ## Dependencies
-The program is written in Unix environment and uses sys and bumpy libraries.
+The program is written in Unix environment and uses sys and numpy libraries.
